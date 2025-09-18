@@ -19,7 +19,8 @@ def main():
             break
         else:
             print("もう一度選択してください。")
+            print("念押しのもう一度選択してください")
+
 
 if __name__ == "__main__":
     main()
-
