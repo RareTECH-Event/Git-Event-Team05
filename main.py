@@ -1,7 +1,7 @@
 def main():
     while True:
         print("選択してください：")
-        print("1: 選択肢1")
+        print("1: hirata-yuk")
         print("2: 選択肢2")
         print("3: 選択肢3")
         print("q: 終了")
